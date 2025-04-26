@@ -3,7 +3,7 @@ package timus;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class java1585 {
+public class timus1585 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
