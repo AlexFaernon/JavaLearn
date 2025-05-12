@@ -1,7 +1,6 @@
 package laba5;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class t6 {
     static String[] findWithSubstring(String[] strings, String substring){
