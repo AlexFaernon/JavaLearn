@@ -1,0 +1,14 @@
+{
+  "songs": [
+    {
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "year": 1971
+    },
+    {
+      "title": "Bohemian Rhapsody",
+      "artist": "Queen",
+      "year": 1975
+    }
+  ]
+}
